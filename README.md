@@ -74,8 +74,8 @@ Create a file called **lab3.sql** and add the following queries into the file.  
 <img width="1920" alt="Screenshot 2022-11-29 at 9 13 34 PM (2)" src="https://user-images.githubusercontent.com/93145401/204698930-d3ec8aa8-cd10-4add-9164-0af386099847.png">
 
 13.  Write the SQL command that returns the youngest and oldest client
-<img src="https://instructorc.github.io/site/slides/database/images/lab3/13.PNG" width="170" alt="ou<img width="1920" alt="Screenshot 2022-11-29 at 9 14 12 PM (2)" src="https://user-images.githubusercontent.com/93145401/204699040-986510f6-46dc-4b13-a7b0-c1a14598359c.png">
-tput query 13"/>
+<img src="https://instructorc.github.io/site/slides/database/images/lab3/13.PNG" width="170" alt="output query 13"/>
+<img width="1920" alt="Screenshot 2022-11-29 at 9 14 12 PM (2)" src="https://user-images.githubusercontent.com/93145401/204699040-986510f6-46dc-4b13-a7b0-c1a14598359c.png">
 
 
 14.  Write the SQL command that lists all clients that have a home insurance policy
