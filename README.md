@@ -43,8 +43,12 @@ Create a file called **lab3.sql** and add the following queries into the file.  
 
 5.  Write the SQL command that displays the client name, address, and age sorted by age in descending order in the figure below
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/5.PNG" width="300" alt="output query 5"/>
+<img width="1920" alt="Screenshot 2022-11-29 at 9 05 01 PM (2)" src="https://user-images.githubusercontent.com/93145401/204697971-4d4883fb-6df0-48e9-8a6f-1c4bbe9aa51a.png">
+
 6.  Write the SQL command that calculates the average age of all clients
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/6.PNG" width="90" alt="output query 6"/>
+<img width="1920" alt="Screenshot 2022-11-29 at 9 06 25 PM (2)" src="https://user-images.githubusercontent.com/93145401/204698121-d9ccd4c2-62d6-43a6-b661-d925c1685000.png">
+
 7.  Write the SQL command that lists the name and age of clients who are between the ages of 22 and 40
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/7.PNG" width="180" alt="output query 7"/>
 8.  Write the SQL command that lists all home policies that have a policy limit under $250,000.
