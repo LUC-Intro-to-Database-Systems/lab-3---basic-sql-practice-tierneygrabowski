@@ -29,12 +29,18 @@ Create a file called **lab3.sql** and add the following queries into the file.  
 <br>First, write the SQL commands to insert data into each of the tables. Your insert statements should also be included in the lab2.sql file.  **The data files are listed in the repository for this lab**
 1.  Write the SQL command to list all clients and all the columns pertaining to a client.  The intended output is below.
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/1.PNG" width="350" alt="output query 1"/>
+<img width="1920" alt="task1" src="https://user-images.githubusercontent.com/93145401/204697640-81e7d4e2-81f6-421e-9e58-f50408c5fd34.png">
+
 2.  Write the SQL command to change client Chris Isaac to Chris Pearson.  No output for this command
 
 3.  Write the SQL command to display all policies that have a policy type of 'Home'.
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/3.PNG" width="300" alt="output query 3"/>
+<img width="1920" alt="task3" src="https://user-images.githubusercontent.com/93145401/204697691-ee9540b3-4d12-48af-928a-23a9b02d2836.png">
+
 4.  Write the SQL command to display all columns for policies that have yearly terms
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/4.PNG" width="300" alt="output query 4"/>
+<img width="1920" alt="task4" src="https://user-images.githubusercontent.com/93145401/204697744-75389fc1-e43f-4c4d-9e68-045da783a4ca.png">
+
 5.  Write the SQL command that displays the client name, address, and age sorted by age in descending order in the figure below
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/5.PNG" width="300" alt="output query 5"/>
 6.  Write the SQL command that calculates the average age of all clients
