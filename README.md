@@ -63,12 +63,22 @@ Create a file called **lab3.sql** and add the following queries into the file.  
 
 10.  Write the SQL command that lists the name, address, and age of clients who are age 35 and above and whose address contains the number 8
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/10.PNG" width="300" alt="output query 10"/>
+<img width="1920" alt="Screenshot 2022-11-29 at 9 11 48 PM (2)" src="https://user-images.githubusercontent.com/93145401/204698754-9e04f920-3b9f-4941-96ae-d1ee0ef24e8f.png">
+
 11.  Write the SQL command that returns the total # of policies offered
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/11.PNG" width="80" alt="output query 11"/>
+<img width="1920" alt="Screenshot 2022-11-29 at 9 12 57 PM (2)" src="https://user-images.githubusercontent.com/93145401/204698850-4d99ab6d-1aff-4d74-98aa-b086654e6a45.png">
+
 12.  Write the SQL command that returns the policy type and the total count of policies by type
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/12.PNG" width="170" alt="output query 12"/>
+<img width="1920" alt="Screenshot 2022-11-29 at 9 13 34 PM (2)" src="https://user-images.githubusercontent.com/93145401/204698930-d3ec8aa8-cd10-4add-9164-0af386099847.png">
+
 13.  Write the SQL command that returns the youngest and oldest client
-<img src="https://instructorc.github.io/site/slides/database/images/lab3/13.PNG" width="170" alt="output query 13"/>
+<img src="https://instructorc.github.io/site/slides/database/images/lab3/13.PNG" width="170" alt="ou<img width="1920" alt="Screenshot 2022-11-29 at 9 14 12 PM (2)" src="https://user-images.githubusercontent.com/93145401/204699040-986510f6-46dc-4b13-a7b0-c1a14598359c.png">
+tput query 13"/>
+![Uploading Screenshot 2022-11-29 at 9.14.12 PM (2).png…]()
+
+
 14.  Write the SQL command that lists all clients that have a home insurance policy
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/14.PNG" width="450" alt="output query 14"/>
 15.  Write the SQL command that lists all of the instances of a policy where the client ID is equal to #2
