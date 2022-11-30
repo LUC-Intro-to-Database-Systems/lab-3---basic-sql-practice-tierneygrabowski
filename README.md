@@ -51,10 +51,16 @@ Create a file called **lab3.sql** and add the following queries into the file.  
 
 7.  Write the SQL command that lists the name and age of clients who are between the ages of 22 and 40
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/7.PNG" width="180" alt="output query 7"/>
+<img width="1920" alt="Screenshot 2022-11-29 at 9 08 02 PM (2)" src="https://user-images.githubusercontent.com/93145401/204698336-f479bbbc-207e-4e06-a982-4d6330f69a9f.png">
+
 8.  Write the SQL command that lists all home policies that have a policy limit under $250,000.
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/8.PNG" width="270" alt="output query 8"/>
+<img width="1920" alt="Screenshot 2022-11-29 at 9 09 21 PM (2)" src="https://user-images.githubusercontent.com/93145401/204698443-377d6316-153b-4f40-b522-ae298b8f6618.png">
+
 9.  Write the SQL  command that lists the client's name and address for all addresses that contain 'Featherstone' and order by age in ascending order.
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/9.PNG" width="200" alt="output query 9"/>
+<img width="1920" alt="Screenshot 2022-11-29 at 9 10 27 PM (2)" src="https://user-images.githubusercontent.com/93145401/204698565-d41e291e-da73-4d1d-8f76-79acedc79daf.png">
+
 10.  Write the SQL command that lists the name, address, and age of clients who are age 35 and above and whose address contains the number 8
 <img src="https://instructorc.github.io/site/slides/database/images/lab3/10.PNG" width="300" alt="output query 10"/>
 11.  Write the SQL command that returns the total # of policies offered
