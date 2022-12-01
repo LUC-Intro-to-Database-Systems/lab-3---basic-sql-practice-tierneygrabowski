@@ -181,8 +181,22 @@ FROM
 /* 14. Write the SQL command that lists all clients that have a home insurance policy. */ 
 
 SELECT 
-    clientID, client_name, client_age
+    *
 FROM
     CLIENT
+JOIN POLICY ON client.clientID=policy.policyID     
 WHERE
-    client_age BETWEEN 22 AND 40;
+    policyType = 'Home';
+    
+/* 15. Write the SQL command that lists all of the instances of a policy where the client ID is equal to #2 */
+
+SELECT 
+    *
+FROM
+    CLIENT
+JOIN POLICY ON client.clientID=policy.policyID     
+WHERE
+    client.clientID = 2;
+    
+
+
