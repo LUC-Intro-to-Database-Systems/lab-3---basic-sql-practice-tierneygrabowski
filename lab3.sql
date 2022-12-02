@@ -184,19 +184,26 @@ SELECT
     *
 FROM
     CLIENT
-JOIN POLICY ON client.clientID=policy.policyID     
+        INNER JOIN
+    policy ON client.clientID = policy.policyID
 WHERE
-    policyType = 'Home';
-    
+    policyType = 'home';
+
 /* 15. Write the SQL command that lists all of the instances of a policy where the client ID is equal to #2 */
 
 SELECT 
     *
 FROM
     CLIENT
-JOIN POLICY ON client.clientID=policy.policyID     
+        INNER JOIN
+    policy ON client.clientID = policy.policyID
 WHERE
     client.clientID = 2;
-    
+/* Extra Credit. Write the SQL command that lists all of the instances of a policy where the client ID is equal to #2 */
 
-
+SELECT 
+    *
+FROM
+    CLIENT
+        INNER JOIN
+    policy ON client.clientID = policy.policyID;
